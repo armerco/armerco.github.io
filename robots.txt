@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://armerco.github.io/sitemap.html.gz
+Sitemap: https://armerco.github.io/app/sitemap.html.gz
+Sitemap: https://armerco.github.io/assets/sitemap.html.gz
+Sitemap: https://armerco.github.io/css/sitemap.html.gz
+Sitemap: https://armerco.github.io/includes/sitemap.html.gz
+Sitemap: https://armerco.github.io/item/sitemap.html.gz
+Sitemap: https://armerco.github.io/src/sitemap.html.gz
